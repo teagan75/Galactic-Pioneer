@@ -1,4 +1,4 @@
-# Galactic-Pioneer
+# Teagan's Guide to the Galaxy
 Space Exploration and Travel
 
 This mod pack is designed for players who love to explore space yet have more control over it. This pack is designed around the Warp Drive mod by LemADEC. This mod gives players the ability to design and craft their own spaceship and "fly" it in space and to other planets via Warp technology.  This mod also brings other SciFi technologies to the player that includes: lasers for combat and mining asteroids for resources, player transporter, cloaking and shield devices, and much more. 
